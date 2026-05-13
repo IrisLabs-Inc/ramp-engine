@@ -6,8 +6,8 @@
 
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://www.c-language.org/)
-[![Static Badge](https://img.shields.io/badge/SDL3-blue)](https://www.libsdl.org/)
-![CMake](https://img.shields.io/badge/CMake-3.x-064F8C?style=flat&logo=cmake&logoColor=white)
+[![SDL3](https://img.shields.io/badge/SDL3-1a3a5c?style=flat&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAgODAiPgogIDxkZWZzPgogICAgPGNsaXBQYXRoIGlkPSJvdmFsIj4KICAgICAgPGVsbGlwc2UgY3g9IjU4IiBjeT0iNDAiIHJ4PSI1NiIgcnk9IjM2Ii8+CiAgICA8L2NsaXBQYXRoPgogIDwvZGVmcz4KICA8ZWxsaXBzZSBjeD0iNTgiIGN5PSI0MCIgcng9IjU2IiByeT0iMzYiIGZpbGw9IiMxYTNhNWMiLz4KICA8ZWxsaXBzZSBjeD0iNTgiIGN5PSI0MCIgcng9IjU2IiByeT0iMzYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzRhN2ZhOCIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KICA8dGV4dCB4PSI1OCIgeT0iMzgiIGZvbnQtZmFtaWx5PSJBcmlhbCBCbGFjayxBcmlhbCxzYW5zLXNlcmlmIiBmb250LXdlaWdodD0iOTAwIgogICAgICAgIGZvbnQtc2l6ZT0iMjgiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBsZXR0ZXItc3BhY2luZz0iMiI+U0RMPC90ZXh0PgogIDx0ZXh0IHg9IjU4IiB5PSI1MiIgZm9udC1mYW1pbHk9IkFyaWFsLHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSI0MDAiCiAgICAgICAgZm9udC1zaXplPSI2LjUiIGZpbGw9IiNhOGM4ZTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGxldHRlci1zcGFjaW5nPSIwLjUiPlNpbXBsZSBEaXJlY3RtZWRpYSBMYXllcjwvdGV4dD4KICA8ZWxsaXBzZSBjeD0iNTgiIGN5PSI0MCIgcng9IjUyIiByeT0iMzMiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzZhYWFkNCIKICAgICAgICAgICBzdHJva2Utd2lkdGg9IjEuMiIgc3Ryb2tlLWRhc2hhcnJheT0iMiwzIgogICAgICAgICAgIHRyYW5zZm9ybT0icm90YXRlKC0xNSA1OCA0MCkiLz4KPC9zdmc+)](https://www.libsdl.org/)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
 
 Developed with:
 
