@@ -6,9 +6,9 @@ void applyFriction(float &velocityX, float dt, float mu, float gravity) {
   //ff = mu m g
   if (velocityX > 0.0f) {
       //the friction starts
-      float newVelocityX = velocityX - velocityChange
-      if (newVelocityX < 0.0f) {
-        newVelocityX = 0.0f;
+      velocityX = velocityX - velocityChange;
+      if (velocityX < 0.0f) {
+        velocityX = 0.0f;
       }
   } else {
     return;
